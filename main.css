@@ -1,0 +1,36 @@
+.outline {
+    stroke-width: 0.1;
+    stroke: grey;
+}
+
+circle {
+    stroke-width: 0.2
+}
+
+
+.area{
+    stroke-width: 0.1;
+    stroke: black;
+    fill: turquoise;
+}
+
+.arc{
+    stroke-width: 0.1;
+    stroke: black;
+    fill: teal;
+    opacity: 0.5;
+}
+
+.arc:hover{
+    opacity: 1;
+}
+
+.update{
+    display: block;
+    margin: auto;
+    font-size: 2em;
+/*    color: white;*/
+/*    background-color: teal;*/
+    
+    
+}
